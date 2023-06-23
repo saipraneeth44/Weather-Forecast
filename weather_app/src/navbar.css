@@ -1,0 +1,19 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar {
+  text-align: center;
+  background-color: antiquewhite;
+  position: sticky;
+  top: 0px;
+}
+
+.navbar li {
+  border: 1px solid red;
+  list-style: none;
+  width: 100px;
+  margin: 15px;
+  display: inline-block;
+}

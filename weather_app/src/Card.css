@@ -1,0 +1,20 @@
+.displayCard {
+  border: 1px solid red;
+  text-align: center;
+  width: 500px;
+  margin: auto;
+}
+#temperature {
+  font: 300;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/* .forecastDisplay {
+  border: 1px solid red;
+  width: 500px;
+  margin: auto;
+} */
+.panelContent {
+  border: 1px solid red;
+}
+
